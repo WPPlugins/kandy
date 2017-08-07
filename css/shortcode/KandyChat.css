@@ -1,0 +1,48 @@
+/* KANDY CHAT STYLE */
+.kandyChat .kandyMessages {
+    background: #EFEFEF;
+    padding: 0 0 0 5px;
+}
+
+.kandyChat .chat-heading {
+    padding: 5px 0;
+}
+
+.kandyChat .groups .list-users li a span {
+    font-size: 11px;
+    font-style: italic;
+}
+
+.myChatStyle .imMessageToSend {
+   
+}
+
+.myChatStyle .messages {
+ 
+}
+
+.myChatStyle .my-message {
+   
+}
+
+.myChatStyle .their-message {
+    
+}
+
+.myChatStyle .btnSendMessage {
+    
+}
+
+.myChatStyle .input-message {
+    
+}
+
+.myChatStyle .button-send {
+
+}
+
+.myChatStyle .contact-heading {
+}
+
+.myChatStyle .chat-with-message {
+}

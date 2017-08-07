@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:124
+msgid "A api key is required for the Kandy API"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:124
+msgid "A domain name is required for Kandy API"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:124
+msgid "A domain secret key is required for Kandy API"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:124
+msgid "A kandy FCS library url required for the Kandy API."
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:124
+msgid "A kandy javascript library url required for the Kandy API."
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:30
+msgid "API Key"
+msgstr ""
+
+#. Text in function
+#: kandywordpress-kandy1.4/admin/CustomizationEditPage.php:87
+#: kandywordpress-kandy1.4/admin/AssignmentEditPage.php:110
+msgid "Back"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/CustomizationEditPage.php:82
+#: kandywordpress-kandy1.4/admin/AssignmentEditPage.php:105
+msgid "Cancel"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/CustomizationEditPage.php:70
+msgid "Content"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:72
+msgid "Domain Name"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:51
+msgid "Domain Secret Key"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/CustomizationEditPage.php:15
+#: kandywordpress-kandy1.4/admin/AssignmentEditPage.php:28
+msgid "Error. Please check again."
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:114
+msgid "FCS Library Url"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/CustomizationEditPage.php:57
+msgid "File Name"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/AssignmentSyncPage.php:1
+#: kandywordpress-kandy1.4/admin/CustomizationEditPage.php:87
+#: kandywordpress-kandy1.4/admin/AssignmentEditPage.php:110
+msgid "Invalid request. Please contact with administrator to get more information"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:93
+msgid "Javascript Library Url"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:134
+msgid "Jquery Reload"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/HelpPage.php:14
+msgid "Kandy Help"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/CustomizationPage.php:36
+msgid "Kandy Script Customization"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/CustomizationPage.php:16
+msgid "Kandy Style Customization"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/CustomizationPage.php:14
+msgid "Kandy Style/Script Customization"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/AssignmentEditPage.php:81
+msgid "Kandy User"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/AssignmentPage.php:14
+#: kandywordpress-kandy1.4/admin/CustomizationEditPage.php:13
+#: kandywordpress-kandy1.4/admin/AssignmentEditPage.php:19
+msgid "Kandy User Assignment"
+msgstr ""
+
+#. Text in function
+#: kandywordpress-kandy1.4/admin/AssignmentSyncPage.php:1
+msgid "Kandy user synchronization"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:140
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: kandywordpress-kandy1.4/admin/AssignmentEditPage.php:28
+msgid "Save Successfully"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/AssignmentEditPage.php:93
+msgid "Select kandy user name you want to assign. Set 'None' to unassign"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:144
+msgid "Set 'Yes' if you want to load kandy jquery library"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/AssignmentPage.php:15
+#: kandywordpress-kandy1.4/admin/AssignmentEditPage.php:22
+msgid "Sync"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/AssignmentEditPage.php:69
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: kandywordpress-kandy1.4/admin/SettingsPage.php:141
+msgid "Yes"
+msgstr ""
